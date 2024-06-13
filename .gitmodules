@@ -1,0 +1,3 @@
+[submodule "secure_net"]
+	path = secure_net
+	url = https://github.com/bsc-com-ne-22-19/secure-net-honeypot.git
